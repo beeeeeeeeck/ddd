@@ -1,43 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:47:55.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="JwnDNhX8-0aAEnjM8grO" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:35:05.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Zf4i-8ZXz9ju0FzogHrV" version="14.6.2" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="yWFT4_Iqz4xB_hYSVHi7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry width="1240" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="yWFT4_Iqz4xB_hYSVHi7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="100" width="970" height="920" as="geometry" />
+        </mxCell>
         <mxCell id="3d76a8aef4d5c911-23" value="&lt;p class=&quot;lead&quot; style=&quot;margin: 0px 0px 20px ; line-height: 1 ; font-family: &amp;#34;georgia&amp;#34; , serif ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;Keep sensitive info out of your email and chat logs.&lt;/p&gt;&lt;form id=&quot;createSecret&quot; method=&quot;post&quot; autocomplete=&quot;off&quot; action=&quot;https://onetimesecret.com/&quot; class=&quot;form-horizontal&quot; style=&quot;margin: 0px 0px 20px ; font-family: &amp;#34;georgia&amp;#34; , serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;fieldset style=&quot;padding: 0px ; margin: 0px ; border-width: 0px&quot;&gt;&lt;/fieldset&gt;&lt;/form&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="405" y="236" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-24" value="&lt;font color=&quot;#b3b3b3&quot; style=&quot;font-size: 16px&quot;&gt;Secret content goes here ...&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=12;align=left;spacing=10;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=#999999;" parent="1" vertex="1">
+        <mxCell id="3d76a8aef4d5c911-24" value="&lt;font color=&quot;#b3b3b3&quot; style=&quot;font-size: 16px&quot;&gt;Secret content goes here ...&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=12;align=left;spacing=10;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=#999999;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="276" width="800" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-1" value="&lt;h1 class=&quot;&quot; style=&quot;margin: 0px 0px 6px ; font-family: &amp;#34;georgia&amp;#34; , serif ; font-weight: normal ; line-height: 1 ; color: rgb(51 , 51 , 51) ; font-size: 22px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;Paste a password, secret message or private link below.&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-1" value="&lt;h1 class=&quot;&quot; style=&quot;margin: 0px 0px 6px ; font-family: &amp;#34;georgia&amp;#34; , serif ; font-weight: normal ; line-height: 1 ; color: rgb(51 , 51 , 51) ; font-size: 22px ; text-align: center ; background-color: rgb(255 , 255 , 255)&quot;&gt;Paste a password, secret message or private link below.&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="330" y="186" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-18" value="A simple success alert!" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E0F0D6;fontColor=#59B958;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;rounded=1;glass=0;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-18" value="A simple success alert!" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E0F0D6;fontColor=#59B958;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;rounded=0;glass=0;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="530" width="800" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-24" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-24" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;rounded=1;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="600" width="800" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-25" value="&lt;span style=&quot;color: rgb(153 , 153 , 153) ; font-family: &amp;#34;georgia&amp;#34; , serif ; text-align: right ; background-color: rgb(230 , 230 , 230)&quot;&gt;Passphrase&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="TcsX-7yYpZJhRPJzNlK1-24">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-25" value="&lt;span style=&quot;color: rgb(153 , 153 , 153) ; font-family: &amp;#34;georgia&amp;#34; , serif ; text-align: right ; background-color: rgb(230 , 230 , 230)&quot;&gt;Passphrase&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="TcsX-7yYpZJhRPJzNlK1-24" vertex="1">
           <mxGeometry width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-26" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-26" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;rounded=1;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="710" width="800" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-27" value="View" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="TcsX-7yYpZJhRPJzNlK1-26">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-27" value="View" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="TcsX-7yYpZJhRPJzNlK1-26" vertex="1">
           <mxGeometry width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-28" value="times" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="TcsX-7yYpZJhRPJzNlK1-26">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-28" value="times" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="TcsX-7yYpZJhRPJzNlK1-26" vertex="1">
           <mxGeometry x="1" width="40" height="40" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-31" value="Duration - 7 days" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#0085FC;fillColor=#DEE2E6;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-31" value="Duration - 7 days" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#0085FC;fillColor=#DEE2E6;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;rounded=1;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="670" width="800" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TcsX-7yYpZJhRPJzNlK1-32" value="Create a secret link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="800" width="400" height="40" as="geometry" />
+        <mxCell id="TcsX-7yYpZJhRPJzNlK1-32" value="Create a secret link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rounded=1;glass=0;sketch=0;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="430" y="800" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWFT4_Iqz4xB_hYSVHi7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yWFT4_Iqz4xB_hYSVHi7-3" target="yWFT4_Iqz4xB_hYSVHi7-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
